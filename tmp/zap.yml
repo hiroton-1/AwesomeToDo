@@ -11,7 +11,7 @@ on:
 permissions:
   contents: read            # リポジトリの内容を読み取る
   security-events: write    # セキュリティスキャン結果の記録
-  issues: write             # Issuesへの追加
+  issues: write             # Issuesへの追加a
 
 jobs:
   zap_scan:
